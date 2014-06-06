@@ -3,11 +3,6 @@ Package.describe({
 });
 
 Package.on_use(function (api, where) {
-  api.add_files('meteor-dragout.js', ['client', 'server']);
-});
-
-Package.on_test(function (api) {
-  api.use('meteor-dragout');
-
-  api.add_files('meteor-dragout_tests.js', ['client', 'server']);
+	api.use('jquery', 'client');
+	api.add_files('meteor-dragout.js', 'client');
 });

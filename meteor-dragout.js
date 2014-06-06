@@ -39,4 +39,4 @@ dragout = $special.dragout = {
 
 }
 
-})(window.jQuery);
+})(jQuery);
