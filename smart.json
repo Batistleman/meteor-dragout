@@ -3,7 +3,7 @@
   "description": "This package adds the dragout event to meteor.",
   "homepage": "https://github.com/Batistleman/meteor-dragout",
   "author": "Batist Leman <batist.leman@gmail.com> (http://antobase.com)",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "git": "https://github.com/Batistleman/meteor-dragout",
   "packages": {}
 }
